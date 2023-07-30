@@ -33,7 +33,7 @@ list-style: none;
 font-size: 18px;
 font-style: normal;
 font-weight: 800;
-line-height: 21px; /* 116.667% */
+line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
@@ -91,7 +91,7 @@ letter-spacing: 0.32px;
     font-size: 56px;
 font-style: normal;
 font-weight: 700;
-line-height: 60px; /* 107.143% */
+line-height: 1.07;
 letter-spacing: 1.12px;
 text-align: center;
 }
@@ -101,7 +101,7 @@ text-align: center;
     font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 40px; /* 150% */
+line-height: 1.5;
 letter-spacing: 0.64px;
 background: var(--iris, #4D5AE5);
 }
@@ -125,7 +125,7 @@ background: var(--iris, #4D5AE5);
     font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 24px; /* 120% */
+line-height: 1.2;
 letter-spacing: 0.4px;
 }
 .aside-text {
@@ -133,7 +133,7 @@ letter-spacing: 0.4px;
     font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 24px; /* 150% */
+line-height: 1.5;
 letter-spacing: 0.32px;
 }
 /*WORK*/
@@ -145,7 +145,7 @@ letter-spacing: 0.32px;
     font-size: 36px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.11px; /* 111.111% */
+line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 text-align: center;
@@ -178,7 +178,7 @@ team-list{
     font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 24px; /* 120% */
+line-height: 1.2;
 letter-spacing: 0.4px;
 }
 .team-text {
@@ -186,7 +186,7 @@ letter-spacing: 0.4px;
     font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 24px; /* 150% */
+line-height: 1.4;
 letter-spacing: 0.32px;
 }
 /*FOOTER*/
@@ -199,7 +199,7 @@ letter-spacing: 0.32px;
 font-size: 18px;
 font-style: normal;
 font-weight: 800;
-line-height: 21px; /* 116.667% */
+line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
