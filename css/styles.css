@@ -14,9 +14,13 @@ body{
     --cloud-background: #F4F4FD;
     --cornflower-color: #E7E9FC;
 }
-ul,ol{
-    list-style-type: none;
+.link{
+    text-decoration: none;
 }
+.last{
+list-style: none;
+}
+
 /*HEADER*/
 .header {
     background-color: var(--white-background);
@@ -89,13 +93,15 @@ font-style: normal;
 font-weight: 700;
 line-height: 60px; /* 107.143% */
 letter-spacing: 1.12px;
+text-align: center;
 }
 .hero-btn{
-    background-color: var(--white-background);
+    font-family: 'Roboto', sans-serif;
+    color: var(--white-background);
     font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 24px; /* 150% */
+line-height: 1.07px; /* 150% */
 letter-spacing: 0.64px;
 background: var(--iris, #4D5AE5);
 }
@@ -139,9 +145,10 @@ letter-spacing: 0.32px;
     font-size: 36px;
 font-style: normal;
 font-weight: 700;
-line-height: 40px; /* 111.111% */
+line-height: 1.11px; /* 111.111% */
 letter-spacing: 0.72px;
 text-transform: capitalize;
+text-align: center;
 }
 .work-list {
 }
@@ -162,9 +169,9 @@ text-transform: capitalize;
 text-align: center;
 }
 team-list{
-    background-color: var(--white-background);
 }
 .team-item {
+    background-color: var(--white-background);
 }
 .team-subject {
     color: var(--navyblue-color);
@@ -226,15 +233,12 @@ letter-spacing: 0.32px;
 }
 .content-btn {
     color: var(--iris-color);
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.64px;
-
-
-border-radius: 4px;
-border: 1px solid var(--cornflower, #E7E9FC);
 background: var(--cloud, #F4F4FD);
 cursor: pointer;
 }
