@@ -15,7 +15,7 @@ body{
     --cornflower-color: #E7E9FC;
 }
 ul,ol{
-    list-style: none;
+    list-style-type: none;
 }
 /*HEADER*/
 .header {
@@ -60,6 +60,7 @@ letter-spacing: 0.32px;
     color: var(--ocean-color);
 }
 .address {
+    font-style: normal;
 }
 .address-list {
 }
@@ -70,6 +71,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
+
 }
 .address-link:hover,
 .address-link:focus{
