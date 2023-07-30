@@ -17,7 +17,7 @@ body{
 .link{
     text-decoration: none;
 }
-.last{
+.list{
 list-style: none;
 }
 
@@ -101,7 +101,7 @@ text-align: center;
     font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.07px; /* 150% */
+line-height: 40px; /* 150% */
 letter-spacing: 0.64px;
 background: var(--iris, #4D5AE5);
 }
@@ -251,6 +251,9 @@ cursor: pointer;
 .projcts {
 }
 .projcts-list {
+}
+.projcts-item{
+
 }
 .projcts-submit {
     color: var(--navyblue-color);
