@@ -33,7 +33,7 @@ list-style: none;
 font-size: 18px;
 font-weight: 800;
 line-height: 1.17;
-letter-spacing: 0.33em;
+letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .header-nav-logos{
@@ -91,6 +91,7 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
 background: var(--iris, #4D5AE5);
+cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus{
