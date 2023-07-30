@@ -1,6 +1,8 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    color: var(--slate-color);
+    background-color: var(--white-background);
 }
 :root {
     --iris-color: #4D5AE5;
@@ -23,7 +25,7 @@ ul,ol{
 }
 .header-nav-logo {
     color: var(--iris-color);
-    font-family: Raleway;
+    font-family: Raleway,  sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 800;
@@ -33,7 +35,7 @@ text-transform: uppercase;
 }
 .header-nav-logos{
     color: var(--navyblue-color);
-    font-family: Raleway;
+    font-family: Raleway,  sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
@@ -94,8 +96,6 @@ font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.64px;
 background: var(--iris, #4D5AE5);
-border-radius: 4px;
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .hero-btn:hover,
 .hero-btn:focus{
@@ -184,7 +184,7 @@ letter-spacing: 0.32px;
 }
 .footer-logo {
     color: var(--iris-color);
-    font-family: Raleway;
+    font-family: Raleway,  sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 800;
@@ -194,7 +194,7 @@ text-transform: uppercase;
 }
 .footer-logos{
     color: var(--cloud-background);
-    font-family: Raleway;
+    font-family: Raleway,  sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 800;
