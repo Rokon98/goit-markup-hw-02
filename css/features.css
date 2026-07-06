@@ -1,0 +1,23 @@
+.features {
+}
+
+.features-titel {
+}
+
+.features-list {
+}
+
+.features-item {
+}
+
+.features-subject {
+  font-weight: 500;
+  font-size: 20px;
+
+  line-height: 1.2;
+  color: var(--navy-blue);
+}
+
+.features-text {
+        color: var(--slate);
+}

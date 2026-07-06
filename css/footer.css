@@ -1,0 +1,13 @@
+.footer {
+    background: var(--navy-blue);
+}
+
+.logo {}
+
+.logo-footer {
+    color: var(--cloud);
+}
+
+.footer-text {
+    color: var(--cloud);
+}

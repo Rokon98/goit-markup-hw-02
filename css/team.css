@@ -1,0 +1,36 @@
+.team {
+    background: var(--cloud);
+}
+
+.team-titel {
+  font-weight: 700;
+  font-size: 36px;
+
+  line-height: 1.11111;
+  text-align: center;
+  color: var(--navy-blue);
+}
+
+.team-list {
+    
+}
+
+.team-item {
+    background: var(--white);
+}
+
+.team-img {
+}
+
+.team-subject {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        text-align: center;
+        color: var(--navy-blue)
+}
+
+.team-text {
+    text-align: center;
+        color: var(--slate);
+}

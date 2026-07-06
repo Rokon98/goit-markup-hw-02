@@ -1,0 +1,35 @@
+.portfolio {
+}
+
+.portfolio-titel {
+  font-weight: 700;
+  font-size: 36px;
+
+  /* line-height: 40px; */
+  line-height: 1.11111;
+  text-align: center;
+  color: var(--navy-blue);
+}
+
+.portfolio-list {
+}
+
+.portfolio-item {
+}
+
+.portfolio-img {
+}
+
+.portfolio-subject {
+    font-weight: 500;
+        font-size: 20px;
+    
+
+        line-height: 1.2;
+        
+        color: var(--navy-blue);
+}
+
+.portfolio-text {
+    color: var(--slate);
+}
