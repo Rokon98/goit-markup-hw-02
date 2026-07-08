@@ -5,6 +5,7 @@
 .hero-titel {
   font-weight: 700;
   font-size: 56px;
+  width: 496px;
 
   /* line-height: 60px; */
   line-height: 1.07143;
@@ -15,6 +16,7 @@
 
 .hero-btn {
   font-weight: 500;
+  line-height: 1.5;
 
   letter-spacing: 0.04em;
   color: var(--white);
